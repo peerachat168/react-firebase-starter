@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "react-firebase-example2"
-  }
+    "default": "react-firebase-example2-test",
+    "test": "react-firebase-example2-test"
+  },
+  "targets": {},
+  "etags": {}
 }
